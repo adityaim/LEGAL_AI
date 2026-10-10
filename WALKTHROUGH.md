@@ -1,7 +1,7 @@
 # Multimodal Legal Assistant — Implementation Walkthrough
 
 > **Living document** — updated after each module is completed.
-> Current status: **Modules 1–5 complete** | Modules 6–10 pending.
+> Current status: **Modules 1–7 complete** | Modules 8–10 pending.
 
 ---
 
